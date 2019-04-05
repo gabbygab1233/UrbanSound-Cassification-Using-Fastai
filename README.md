@@ -17,4 +17,4 @@ This dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10
 *  Siren
 *  Street Music
 
-If you have problem in viewing the notebook go to this URL:https://nbviewer.jupyter.org/github/gabbygab1233/UrbanSound-Cassification-Using-Fastai/blob/master/URBANSOUND%20CLASSIFICATION.ipynb
+If you can't view the notebook go to this link:https://nbviewer.jupyter.org/github/gabbygab1233/UrbanSound-Cassification-Using-Fastai/blob/master/URBANSOUND%20CLASSIFICATION.ipynb
