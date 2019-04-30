@@ -1,4 +1,4 @@
-# UrbanSound8k Dataset
+# UrbanSound Classification
 ![slide-5](https://user-images.githubusercontent.com/37177883/55971827-d2157100-5cb4-11e9-9a56-d109794da21b.jpg)
 
 ## Description
